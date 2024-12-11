@@ -144,3 +144,9 @@ dmypy.json
 .history/
 
 .mypy_cache
+
+# new
+get-pip.py
+sys
+
+
